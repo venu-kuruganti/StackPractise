@@ -1,0 +1,8 @@
+C:\Users\venuk\Documents\Practise Projects\StackPractise\bin\Debug\StackPractise.exe.config
+C:\Users\venuk\Documents\Practise Projects\StackPractise\bin\Debug\StackPractise.exe
+C:\Users\venuk\Documents\Practise Projects\StackPractise\bin\Debug\StackPractise.pdb
+C:\Users\venuk\Documents\Practise Projects\StackPractise\obj\Debug\StackPractise.csproj.AssemblyReference.cache
+C:\Users\venuk\Documents\Practise Projects\StackPractise\obj\Debug\StackPractise.csproj.SuggestedBindingRedirects.cache
+C:\Users\venuk\Documents\Practise Projects\StackPractise\obj\Debug\StackPractise.csproj.CoreCompileInputs.cache
+C:\Users\venuk\Documents\Practise Projects\StackPractise\obj\Debug\StackPractise.exe
+C:\Users\venuk\Documents\Practise Projects\StackPractise\obj\Debug\StackPractise.pdb
